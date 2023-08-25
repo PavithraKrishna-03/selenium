@@ -2,16 +2,19 @@ package testcases;
 
  import org.testng.annotations.Test;
 
-import pageObj.homePage;
+import pageObj.framesPage;
 import setup.SeleniumSetup;
+
 
 public class tc_home extends SeleniumSetup {
 	
 	@Test
-	public void homeTC() throws Exception{
+	public void frameTC() throws Exception{
 		
-    	new homePage(driver).enterUsername();
+		new framesPage(driver).tab().frame();
 	}
+				
+	
 
 
 

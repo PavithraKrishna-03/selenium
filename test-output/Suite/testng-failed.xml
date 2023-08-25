@@ -6,7 +6,7 @@
     <classes>
       <class name="testcases.tc_home">
         <methods>
-          <include name="homeTC"/>
+          <include name="frameTC"/>
           <include name="startApp"/>
         </methods>
       </class> <!-- testcases.tc_home -->
