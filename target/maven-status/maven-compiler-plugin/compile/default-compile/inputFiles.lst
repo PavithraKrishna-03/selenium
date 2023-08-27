@@ -1,2 +1,3 @@
-/home/capfront/Music/SeleniumEx/src/main/java/pageObj/homePage.java
+/home/capfront/Music/SeleniumEx/src/main/java/stepDefinition/TestStep.java
+/home/capfront/Music/SeleniumEx/src/main/java/pageObj/framesPage.java
 /home/capfront/Music/SeleniumEx/src/main/java/setup/SeleniumSetup.java

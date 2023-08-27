@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11484" started-at="2023-08-25T17:14:27 IST" finished-at="2023-08-25T17:14:38 IST">
+  <suite name="Suite" duration-ms="10500" started-at="2023-08-26T12:31:22 IST" finished-at="2023-08-26T12:31:32 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="11484" started-at="2023-08-25T17:14:27 IST" finished-at="2023-08-25T17:14:38 IST">
+    <test name="Test" duration-ms="10500" started-at="2023-08-26T12:31:22 IST" finished-at="2023-08-26T12:31:32 IST">
       <class name="testcases.tc_home">
-        <test-method status="PASS" signature="startApp(java.lang.String)[pri:0, instance:testcases.tc_home@4671e53b]" name="startApp" is-config="true" duration-ms="4649" started-at="2023-08-25T17:14:27 IST" finished-at="2023-08-25T17:14:31 IST">
+        <test-method status="PASS" signature="startApp(java.lang.String)[pri:0, instance:testcases.tc_home@4671e53b]" name="startApp" is-config="true" duration-ms="4064" started-at="2023-08-26T12:31:22 IST" finished-at="2023-08-26T12:31:26 IST">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startApp -->
-        <test-method status="PASS" signature="frameTC()[pri:0, instance:testcases.tc_home@4671e53b]" name="frameTC" duration-ms="6815" started-at="2023-08-25T17:14:31 IST" finished-at="2023-08-25T17:14:38 IST">
+        <test-method status="PASS" signature="frameTC()[pri:0, instance:testcases.tc_home@4671e53b]" name="frameTC" duration-ms="6411" started-at="2023-08-26T12:31:26 IST" finished-at="2023-08-26T12:31:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- frameTC -->

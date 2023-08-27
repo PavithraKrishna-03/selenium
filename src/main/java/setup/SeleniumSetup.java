@@ -17,7 +17,7 @@ public class SeleniumSetup {
 	
 	public static  WebDriver driver;
 
-	@Parameters("browser")
+	//@Parameters("browser")
 	@BeforeClass
 	public void startApp(String browser) throws Exception {
 		try {
@@ -38,7 +38,7 @@ public class SeleniumSetup {
 			e.printStackTrace();
 		}
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(50,TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(60,TimeUnit.SECONDS);
 		
 	}
 }
