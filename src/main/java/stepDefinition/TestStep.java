@@ -25,7 +25,6 @@ public class TestStep {
 	public void user_Navigate() throws Throwable 
 	{
 		 new framesPage(driver).tab();
-	
 		
 	}
 	@Then("Click frame tab and manual testing")
